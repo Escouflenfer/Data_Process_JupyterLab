@@ -4,7 +4,7 @@
   Jupyter Notebook used for data visualization and data treatment of X-Ray-Diffraction (XRD), scanning Magneto-Optic Kerr Effect (MOKE) and Energy Dispersive X-ray (EDX).
 </p>
 <p>
-  Start by executing in a terminal <code>bash./install.sh</code> to install python libraries and the ipywidget module for JupyterLab. A version of python (3.10 or higher) is needed to run the script since it is using the <code>pip</code> command to install dependancies. You can also execute the code direclty in the Jupyter Notebook if you prefer.
+  Start by executing in a terminal <code>bash ./install.sh</code> to install python libraries and the ipywidget module for JupyterLab. A version of python (3.10 or higher) is needed to run the script since it is using the <code>pip</code> command to install dependancies. You can also execute the code direclty in the Jupyter Notebook if you prefer.
 </p>
 <p>
   The Notebook is split in 3 different sections where each corresponds to an experiment (now only XRD, MOKE and EDX will be added soon).
