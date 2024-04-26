@@ -11,5 +11,8 @@
   Concerning the data treatment by Rietveld Refinement, Profex v5.2 has to be used in order to obtain the correct output datafiles (.lst and .dia files).
 </p>
 <p>
+  An example dataset can be found <a href="https://drive.google.com/file/d/1HMR1XuENoKl35gOeaiV2p9cA2W5Lrtrl/view?usp=sharing">here</a>
+</p>
+<p>
   Common issues:<br>If you have multiple versions of python installed on your computer, you can execute <code>#python3.X -m ipykernel install --user</code> with <code>3.X</code> to change the JupyterLab kernel to the corresponding version on python.
 </p>
