@@ -14,5 +14,5 @@
   An example dataset can be downloaded <a href="https://drive.google.com/file/d/1HMR1XuENoKl35gOeaiV2p9cA2W5Lrtrl/view?usp=sharing">here</a> where the rietveld refinement has already been done. After execution of the install.sh file, new folders have been created and you can unzip the dataset in ./data/XRD with <code>tar -xf NdFeB_XRD_dataset.zip -C ./data/XRD</code>
 </p>
 <p>
-  Common issues:<br>If you have multiple versions of python installed on your computer, you can execute <code>#python3.X -m ipykernel install --user</code> with <code>3.X</code> to change the JupyterLab kernel to the corresponding version on python.
+  Common issues:<br>If you have multiple versions of python installed on your computer, you can execute <code>python3.X -m ipykernel install --user</code> with <code>3.X</code> to change the JupyterLab kernel to the corresponding version on python.
 </p>
