@@ -1,6 +1,6 @@
 #!/bin/sh
 
-pip install ipywidgets matplotlib tqdm nodejs npm fabio
+pip install ipywidgets matplotlib tqdm nodejs npm fabio openpyxl
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 mkdir data results
 mkdir data/XRD results/XRD
