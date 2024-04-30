@@ -7,7 +7,7 @@
   Firstly, start by executing in a terminal <code>bash ./install.sh</code> to install python libraries and the ipywidget module for JupyterLab. A version of python (3.10 or higher) is needed to run the script since it is using the <code>pip</code> command to install dependancies. You can also execute the code direclty in the Jupyter Notebook if you prefer.
 </p>
 <p>
-  The Notebook is split in 3 different sections where each corresponds to an experiment (now only XRD, MOKE and EDX will be added soon).
+  The Notebook is split in 3 different sections where each corresponds to an experiment (now only XRD and EDX, MOKE will be added soon).
   Concerning the data treatment by Rietveld Refinement, Profex v5.2 has to be used in order to obtain the correct output datafiles (.lst and .dia files).
 </p>
 <p>
