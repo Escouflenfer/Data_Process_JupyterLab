@@ -1,11 +1,11 @@
 # Data Process on JupyterLab
 @versions <br>
-  XRD-release-1.4 <br>
-  MOKE-release-1.1 <br>
-  EDX-release-1.0 <br>
-  HDF5-beta-1.0 <br>
+&emsp;XRD-release-1.4 <br>
+&emsp;MOKE-release-1.1 <br>
+&emsp;EDX-release-1.0 <br>
+&emsp;HDF5-beta-1.0 <br>
 @date <br>
-  02.05.2024 <br>
+&emsp;02.05.2024 <br>
   
 <p>
   Jupyter Notebook used for high throughput data visualization and data treatment of X-Ray-Diffraction (XRD), scanning Magneto-Optic Kerr Effect (MOKE) and Energy Dispersive X-ray (EDX).
