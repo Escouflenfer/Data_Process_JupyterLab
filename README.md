@@ -14,8 +14,8 @@
   Firstly, start by installing  <a href="https://jupyter.org/">Jupyter Notebook</a> on your computer. Then you can execute in a terminal <code>bash ./install.sh</code> to install python libraries and the ipywidget module for JupyterLab. A version of <a href="https://www.python.org/downloads/">Python</a> (3.10 or higher) is needed to run the script since it is using the <code>pip</code> command to install dependancies. You can also execute the code direclty in the Jupyter Notebook if you prefer.
 </p>
 <p>
-  The Notebook is split in 3 different sections where each corresponds to an experiment XRD, MOKE and EDX.
-  Concerning the data treatment by Rietveld Refinement, Profex v5.2 has to be used in order to obtain the correct output datafiles (.lst and .dia files).
+  The Notebook is split in 4 different sections where each corresponds to an experiment XRD, MOKE and EDX. The last section is a code to export a full dataset as an hdf5 file for sharing (OpenData and MaMMoS)
+  Concerning the XRD data treatment by Rietveld Refinement, Profex v5.2 has to be used in order to obtain the correct output datafiles (.lst and .dia files).
 </p>
 <p>
   A full dataset containing treated XRD, MOKE and EDX data on NdFeB can be downloaded <a href="https://drive.google.com/file/d/1X5_CFA3wjG4I_jjfXp5cxjAG3YoSkzgs/view?usp=drive_link">here</a> as a test example. After execution of the install.sh file, new folders have been created and you can unzip the dataset in your current working directory where your Notebooks are installed <code>tar -xf NdFeB_dataset.zip -C ./</code>
