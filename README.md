@@ -1,8 +1,8 @@
 # Data Process on JupyterLab
 @versions <br>
 &emsp;XRD-release-1.5d <br>
-&emsp;MOKE-release-1.1 <br>
-&emsp;EDX-release-1.1b <br>
+&emsp;MOKE-release-1.6 <br>
+&emsp;EDX-release-1.6 <br>
 &emsp;HDF5-beta-1.0 <br>
 @date <br>
 &emsp;02.05.2024 <br>
